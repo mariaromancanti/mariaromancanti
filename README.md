@@ -68,7 +68,7 @@ I am currently expanding my experience in **AI Engineering, Computer Vision and 
 
 ## Contact
 
-**LinkedIn:** [María Román Cantillana](TU_LINK_DE_LINKEDIN)  
+**LinkedIn:** www.linkedin.com/in/maria-roman-cantillana-465081383
 **GitHub:** [mariaromancanti](https://github.com/mariaromancanti)
 <!--
 **mariaromancanti/mariaromancanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
